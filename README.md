@@ -1,4 +1,4 @@
-# 🔮 VibeCoding - 2026년 AI 운세 프로그램
+# 🔮 0101_fortune2026 - 2026년 AI 운세 프로그램
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)](https://openai.com/)
@@ -8,7 +8,7 @@
 
 ## 📖 프로젝트 소개
 
-VibeCoding은 전통적인 사주명리학과 현대 AI 기술을 결합하여 개인 맞춤형 2026년 운세를 제공하는 파이썬 프로그램입니다. OpenAI의 GPT-4를 활용하여 월별 상세 운세와 연간 종합 분석을 제공합니다.
+0101_fortune2026은 전통적인 사주명리학과 현대 AI 기술을 결합하여 개인 맞춤형 2026년 운세를 제공하는 파이썬 프로그램입니다. OpenAI의 GPT-4를 활용하여 월별 상세 운세와 연간 종합 분석을 제공합니다.
 
 ### ✨ 주요 특징
 
@@ -25,8 +25,8 @@ VibeCoding은 전통적인 사주명리학과 현대 AI 기술을 결합하여 �
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/qutechoi/VibeCoding.git
-cd VibeCoding
+git clone https://github.com/qutechoi/0101_fortune2026.git
+cd 0101_fortune2026
 ```
 
 ### 2. 필요한 패키지 설치
@@ -127,7 +127,7 @@ python fortune_2026.py
 ## 📂 파일 구조
 
 ```
-VibeCoding/
+0101_fortune2026/
 │
 ├── fortune_2026.py          # 메인 운세 프로그램
 ├── requirements.txt         # 필요한 Python 패키지 목록
@@ -193,7 +193,7 @@ VibeCoding/
 
 ## 📞 문의 및 지원
 
-- 🐛 **버그 신고**: [Issues 페이지](https://github.com/qutechoi/VibeCoding/issues)에서 신고해주세요
+- 🐛 **버그 신고**: [Issues 페이지](https://github.com/qutechoi/0101_fortune2026/issues)에서 신고해주세요
 - 💬 **질문 및 제안**: Discussion 탭을 활용해주세요
 - 📧 **직접 연락**: qutechoi@gmail.com
 
@@ -212,7 +212,7 @@ VibeCoding/
 ### 🌟 2026년, 더 나은 한 해를 위한 첫 걸음을 함께 시작해보세요! 🌟
 
 > **"미래는 예측하는 것이 아니라 준비하는 것입니다."**  
-> VibeCoding으로 2026년을 현명하게 준비하세요.
+> 0101_fortune2026으로 2026년을 현명하게 준비하세요.
 
 ---
 
